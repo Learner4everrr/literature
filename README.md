@@ -8,7 +8,7 @@ I plan to use this page to record the papers I have read.
  - **Attention is all you need**. A Vaswani et.al. **IEEE Signal Process. Lett.**, **2017**, **Number of Citations: **115085, ([pdf](.\Papers\Attention_is_all_you_need.pdf))([link](https://proceedings.neurips.cc/paper/7181-attention-is-all)).
  - **A gentle introduction to graph neural networks**. Sanchez-Lengeling, et al. **Distill**, **2021**, **Number of Citations: **151, ([pdf]())([link](https://distill.pub/2021/gnn-intro/)).
  - **Bert: Pre-training of deep bidirectional transformers for language understanding**. J Devlin et.al. **arXiv preprint arXiv …**, **2018**, **Number of Citations: **96635, ([pdf](.\Papers\Bert_Pre-training_of_deep_bidirectional_transformers_for_language_understanding.pdf))([link](https://arxiv.org/abs/1810.04805)).
- - {{An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale}}
+ - {{2010.11929v2}}
 
 
 ## RAG
