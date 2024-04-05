@@ -11,3 +11,4 @@ I plan to use this page to record the papers I have read.
 
 
 ## RAG
+ - {{A gentle introduction to graph neural networks}}
