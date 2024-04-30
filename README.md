@@ -17,4 +17,5 @@ I plan to use this page to record the papers I have read.
 
 
 ## RAG
+ - **Retrieval-augmented generation for knowledge-intensive nlp tasks**. P Lewis et.al. **NeurIPS**, **2020**, **Number of Citations: **1980, ([pdf](.\Papers\Retrieval-augmented_generation_for_knowledge-intensive_nlp_tasks.pdf))([link](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html)).
  - **Benchmarking large language models in retrieval-augmented generation**. J Chen et.al. **AAAI**, **2024**, **Number of Citations: **42, ([pdf](.\Papers\Benchmarking_large_language_models_in_retrieval-augmented_generation.pdf))([link](https://ojs.aaai.org/index.php/AAAI/article/view/29728)).
