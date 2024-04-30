@@ -17,3 +17,4 @@ I plan to use this page to record the papers I have read.
 
 
 ## RAG
+ - **Benchmarking large language models in retrieval-augmented generation**. J Chen et.al. **AAAI**, **2024**, **Number of Citations: **42, ([pdf](.\Papers\Benchmarking_large_language_models_in_retrieval-augmented_generation.pdf))([link](https://ojs.aaai.org/index.php/AAAI/article/view/29728)).
