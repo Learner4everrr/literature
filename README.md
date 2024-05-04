@@ -9,6 +9,7 @@ I plan to use this page to record the papers I have read.
  - **A gentle introduction to graph nerual netwroks**. ([Link](https://distill.pub/2021/gnn-intro/))
  - **BERT: Pre-training of Deep Bidirectional Transformers for Language
   Understanding**. Jacob Devlin et.al. **arxiv**, **2018**, **Number of Citations: **None, ([pdf](.\Papers\BERT_Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding.pdf))([link](http://arxiv.org/abs/1810.04805v2)).
+ - **A Primer in BERTology: What We Know About How BERT Works.**. Anna Rogers et.al. **Trans. Assoc. Comput. Linguistics**, **2020**, **Number of Citations: **None, ([pdf](./Papers//your_pdf_name.pdf))([link](https://doi.org/10.1162/tacl_a_00349)).
  - **An Image is Worth 16x16 Words: Transformers for Image Recognition at
   Scale**. Alexey Dosovitskiy et.al. **arxiv**, **2020**, **Number of Citations: **None, ([pdf](.\Papers\An_Image_is_Worth_16x16_Words_Transformers_for_Image_Recognition_at_Scale.pdf))([link](http://arxiv.org/abs/2010.11929v2)).
  - **Masked Autoencoders Are Scalable Vision Learners**. Kaiming He et.al. **arxiv**, **2021**, **Number of Citations: **None, ([pdf](.\Papers\Masked_Autoencoders_Are_Scalable_Vision_Learners.pdf))([link](http://arxiv.org/abs/2111.06377v3)).
