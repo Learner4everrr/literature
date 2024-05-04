@@ -13,7 +13,8 @@ I plan to use this page to record the papers I have read.
   Scale**. Alexey Dosovitskiy et.al. **arxiv**, **2020**, **Number of Citations: **None, ([pdf](.\Papers\An_Image_is_Worth_16x16_Words_Transformers_for_Image_Recognition_at_Scale.pdf))([link](http://arxiv.org/abs/2010.11929v2)).
  - **Masked Autoencoders Are Scalable Vision Learners**. Kaiming He et.al. **arxiv**, **2021**, **Number of Citations: **None, ([pdf](.\Papers\Masked_Autoencoders_Are_Scalable_Vision_Learners.pdf))([link](http://arxiv.org/abs/2111.06377v3)).
 
-
+## Review
+ - **Natural language processing in medicine: a review**. S Locke et.al. **Comput. Biol. Medicine**, **2021**, **Number of Citations: **110, ([pdf](./Papers//your_pdf_name.pdf))([link](https://www.sciencedirect.com/science/article/pii/S2210844021000411)).
 
 
 ## RAG
