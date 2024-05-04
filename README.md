@@ -14,7 +14,7 @@ I plan to use this page to record the papers I have read.
  - **Masked Autoencoders Are Scalable Vision Learners**. Kaiming He et.al. **arxiv**, **2021**, **Number of Citations: **None, ([pdf](.\Papers\Masked_Autoencoders_Are_Scalable_Vision_Learners.pdf))([link](http://arxiv.org/abs/2111.06377v3)).
 
 ## Review
- - **Natural language processing in medicine: a review**. S Locke et.al. **Comput. Biol. Medicine**, **2021**, **Number of Citations: **110, ([pdf](./Papers//your_pdf_name.pdf))([link](https://www.sciencedirect.com/science/article/pii/S2210844021000411)).
+ - **https://doi.org/10.1016/j.tacc.2021.02.007**. ([pdf](./Papers//your_pdf_name.pdf)).
 
 
 ## RAG
