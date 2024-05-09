@@ -9,15 +9,40 @@ I plan to use this page to record the papers I have read.
  - **A gentle introduction to graph nerual netwroks**. ([Link](https://distill.pub/2021/gnn-intro/))
  - **BERT: Pre-training of Deep Bidirectional Transformers for Language
   Understanding**. Jacob Devlin et.al. **arxiv**, **2018**, **Number of Citations: **None, ([pdf](.\Papers\BERT_Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding.pdf))([link](http://arxiv.org/abs/1810.04805v2)).
- - **A Primer in BERTology: What We Know About How BERT Works.**. Anna Rogers et.al. **Trans. Assoc. Comput. Linguistics**, **2020**, **Number of Citations: **None, ([pdf](./Papers//your_pdf_name.pdf))([link](https://doi.org/10.1162/tacl_a_00349)).
- - **An Image is Worth 16x16 Words: Transformers for Image Recognition at
-  Scale**. Alexey Dosovitskiy et.al. **arxiv**, **2020**, **Number of Citations: **None, ([pdf](.\Papers\An_Image_is_Worth_16x16_Words_Transformers_for_Image_Recognition_at_Scale.pdf))([link](http://arxiv.org/abs/2010.11929v2)).
+ - **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**. Alexey Dosovitskiy et.al. **arxiv**, **2020**, **Number of Citations: **None, ([pdf](.\Papers\An_Image_is_Worth_16x16_Words_Transformers_for_Image_Recognition_at_Scale.pdf))([link](http://arxiv.org/abs/2010.11929v2)).
  - **Masked Autoencoders Are Scalable Vision Learners**. Kaiming He et.al. **arxiv**, **2021**, **Number of Citations: **None, ([pdf](.\Papers\Masked_Autoencoders_Are_Scalable_Vision_Learners.pdf))([link](http://arxiv.org/abs/2111.06377v3)).
+ - **Advancing mathematics by guiding human intuition with AI**. Davies Alex et.al. **Nature**, **2021-12-1**, **Number of Citations: **169, ([pdf](.\Papers\Advancing_mathematics_by_guiding_human_intuition_with_AI.pdf))([link](http://dx.doi.org/10.1038/s41586-021-04086-x)).
 
 ## Review
  - **Natural language processing in medicine: A review**. Locke Saskia et.al. **Trends in Anaesthesia and Critical Care**, **2021-6**, **Number of Citations: **85, ([pdf](.\Papers\Natural_language_processing_in_medicine_A_review.pdf))([link](http://dx.doi.org/10.1016/j.tacc.2021.02.007)).
+ - **A Survey of Text Representation and Embedding Techniques in NLP**. Patil Rajvardhan et.al. **IEEE Access**, **2023**, **Number of Citations: **12, ([pdf](.\Papers\A_Survey_of_Text_Representation_and_Embedding_Techniques_in_NLP.pdf))([link](http://dx.doi.org/10.1109/access.2023.3266377)).
+
+## Models
+ - **AlpaCare:Instruction-tuned Large Language Models for Medical Application**. Xinlu Zhang et.al. **arxiv**, **2023**, **Number of Citations: **None, ([pdf](.\Papers\AlpaCareInstruction-tuned_Large_Language_Models_for_Medical_Application.pdf))([link](http://arxiv.org/abs/2310.14558v2)). 
+    - Propose creating a diverse, machine-generated medical IFT dataset, MedInstruct-52k, using GPT-4 and ChatGPT with a high-quality expert-curated seed set.
+    - LLaMA-series models
+
+## Datasets
+ - **Does bert learn as humans perceive? understanding linguistic styles through lexica**. SA Hayati et.al. **EMNLP (1)**, **2021**, **Number of Citations: **24, ([pdf](.\Papers\Does_bert_learn_as_humans_perceive_understanding_linguistic_styles_through_lexica.pdf))([link](https://arxiv.org/abs/2109.02738)).
+     - HUMMINGBIRD dataset
 
 
 ## RAG
  - **Retrieval-augmented generation for knowledge-intensive nlp tasks**. P Lewis et.al. **NeurIPS**, **2020**, **Number of Citations: **1980, ([pdf](.\Papers\Retrieval-augmented_generation_for_knowledge-intensive_nlp_tasks.pdf))([link](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html)).
  - **Benchmarking large language models in retrieval-augmented generation**. J Chen et.al. **AAAI**, **2024**, **Number of Citations: **42, ([pdf](.\Papers\Benchmarking_large_language_models_in_retrieval-augmented_generation.pdf))([link](https://ojs.aaai.org/index.php/AAAI/article/view/29728)).
+ - **BMRetriever: Tuning Large Language Models as Better Biomedical Text Retrievers**. ([pdf](./Papers//your_pdf_name.pdf)). **Not Correct, Check it. Maybe mannual update & download is needed.**
+ - **REALM: Retrieval-Augmented Language Model Pre-Training**. Kelvin Guu et.al. **arxiv**, **2020**, **Number of Citations: **None, ([pdf](.\Papers\REALM_Retrieval-Augmented_Language_Model_Pre-Training.pdf))([link](http://arxiv.org/abs/2002.08909v1)).
+
+
+
+## Uncategorized
+ - **BMRetriever: Tuning Large Language Models as Better Biomedical Text Retrievers**. Ran Xu et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\BMRetriever_Tuning_Large_Language_Models_as_Better_Biomedical_Text_Retrievers.pdf))([link](http://arxiv.org/abs/2404.18443v1)). 
+ - **Gemini Goes to Med School: Exploring the Capabilities of Multimodal
+  Large Language Models on Medical Challenge Problems & Hallucinations**. Ankit Pal et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\Gemini_Goes_to_Med_School_Exploring_the_Capabilities_of_Multimodal_Large_Language_Models_on_Medical_Challenge_Problems_&_Hallucinations.pdf))([link](http://arxiv.org/abs/2402.07023v1)). 
+ - **MEDITRON-70B: Scaling Medical Pretraining for Large Language Models**. Zeming Chen et.al. **arxiv**, **2023**, **Number of Citations: **None, ([pdf](.\Papers\MEDITRON-70B_Scaling_Medical_Pretraining_for_Large_Language_Models.pdf))([link](http://arxiv.org/abs/2311.16079v1)). 
+ - **JMLR: Joint Medical LLM and Retrieval Training for Enhancing Reasoning
+  and Professional Question Answering Capability**. Junda Wang et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\JMLR_Joint_Medical_LLM_and_Retrieval_Training_for_Enhancing_Reasoning_and_Professional_Question_Answering_Capability.pdf))([link](http://arxiv.org/abs/2402.17887v3)). 
+ - **Almanac: Retrieval-Augmented Language Models for Clinical Medicine**. Cyril Zakka et.al. **arxiv**, **2023**, **Number of Citations: **None, ([pdf](.\Papers\Almanac_Retrieval-Augmented_Language_Models_for_Clinical_Medicine.pdf))([link](http://arxiv.org/abs/2303.01229v2)).
+ - **RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation**. Chao Jin et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\RAGCache_Efficient_Knowledge_Caching_for_Retrieval-Augmented_Generation.pdf))([link](http://arxiv.org/abs/2404.12457v2)). 
+ - **Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference**. Tuan Lai et.al. **arxiv**, **2021**, **Number of Citations: **None, ([pdf](.\Papers\Joint_Biomedical_Entity_and_Relation_Extraction_with_Knowledge-Enhanced_Collective_Inference.pdf))([link](http://arxiv.org/abs/2105.13456v2)).
+ - **In-context Learning with Retrieved Demonstrations for Language Models: A Survey**. Man Luo et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\In-context_Learning_with_Retrieved_Demonstrations_for_Language_Models_A_Survey.pdf))([link](http://arxiv.org/abs/2401.11624v5)).
