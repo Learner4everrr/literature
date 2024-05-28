@@ -1,7 +1,7 @@
 My paper list.
 
 ## Classical
-
+ - **A unified architecture for natural language processing**. Collobert Ronan et.al. **No journal**, **2008**, **Number of Citations: **2448, ([pdf](.\Papers\A_unified_architecture_for_natural_language_processing.pdf))([link](http://dx.doi.org/10.1145/1390156.1390177)).
  - **Imagenet classification with deep convolutional neural networks**. A Krizhevsky et.al. **Commun. ACM**, **2012**, **Number of Citations: **127575, ([pdf](.\Papers\Imagenet_classification_with_deep_convolutional_neural_networks.pdf))([link](https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)).
  - **Deep residual learning for image recognition**. K He et.al. **CoDIT**, **2016**, **Number of Citations: **211374, ([pdf](.\Papers\Deep_residual_learning_for_image_recognition.pdf))([link](http://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)).
  - **Bleu: a method for automatic evaluation of machine translation**. K Papineni et.al. **ACL**, **2002**, **Number of Citations: **26918, ([pdf](.\Papers\Bleu_a_method_for_automatic_evaluation_of_machine_translation.pdf))([link](https://aclanthology.org/P02-1040.pdf)).
@@ -19,12 +19,20 @@ My paper list.
  - **Natural language processing in medicine: A review**. Locke Saskia et.al. **Trends in Anaesthesia and Critical Care**, **2021-6**, **Number of Citations: **85, ([pdf](.\Papers\Natural_language_processing_in_medicine_A_review.pdf))([link](http://dx.doi.org/10.1016/j.tacc.2021.02.007)).
  - **A Survey of Text Representation and Embedding Techniques in NLP**. Patil Rajvardhan et.al. **IEEE Access**, **2023**, **Number of Citations: **12, ([pdf](.\Papers\A_Survey_of_Text_Representation_and_Embedding_Techniques_in_NLP.pdf))([link](http://dx.doi.org/10.1109/access.2023.3266377)).
  - **Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing**. Pengfei Liu et.al. **arxiv**, **2021**, **Number of Citations: **3169, ([pdf](.\Papers\Pre-train,_Prompt,_and_Predict_A_Systematic_Survey_of_Prompting_Methods_in_Natural_Language_Processing.pdf))([link](http://arxiv.org/abs/2107.13586v1)).
- - **In-context Learning with Retrieved Demonstrations for Language Models: A Survey**. Man Luo et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\In-context_Learning_with_Retrieved_Demonstrations_for_Language_Models_A_Survey.pdf))([link](http://arxiv.org/abs/2401.11624v5)).
+ - **In-context Learning with Retrieved Demonstrations for Language Models: A Survey**. Man Luo et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\In-context_Learning_with_Retrieved_Demonstrations_for_Language_Models
+ - _A_Survey.pdf))([link](http://arxiv.org/abs/2401.11624v5)).
  - **Transformers in Healthcare: A Survey**. Subhash Nerella et.al. **arxiv**, **2023**, **Number of Citations: **None, ([pdf](.\Papers\Transformers_in_Healthcare_A_Survey.pdf))([link](http://arxiv.org/abs/2307.00067v1)).
+ - **A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models**. Yujuan Ding et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\A_Survey_on_RAG_Meets_LLMs_Towards_Retrieval-Augmented_Large_Language_Models.pdf))([link](http://arxiv.org/abs/2405.06211v1)).
+ - **Deep learning joint models for extracting entities and relations in biomedical: a survey and comparison**. Y Su et.al. **Briefings Bioinform.**, **2022**, **Number of Citations: **4, ([pdf](.\Papers\Deep_learning_joint_models_for_extracting_entities_and_relations_in_biomedical_a_survey_and_comparison.pdf))([link](https://academic.oup.com/bib/article-abstract/23/6/bbac342/6686739)).
+ - **A survey of the recent trends in deep learning for literature based discovery in the biomedical domain**. Cesario Eugenio et.al. **Neurocomputing**, **2024-2**, **Number of Citations: **4, ([pdf](./Papers//A_survey_of_the_recent_trends_in_deep_learning_for_literature_based_discovery_in_the_biomedical_domain.pdf))([link](http://dx.doi.org/10.1016/j.neucom.2023.127079)).
+ - **Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey**. Bonan Min et.al. **arxiv**, **2021**, **Number of Citations: **None, ([pdf](.\Papers\Recent_Advances_in_Natural_Language_Processing_via_Large_Pre-Trained_Language_Models_A_Survey.pdf))([link](http://arxiv.org/abs/2111.01243v1)).
+ - **Deep learning for temporal data representation in electronic health records: A systematic review of challenges and methodologies**. Xie Feng et.al. **Journal of Biomedical Informatics**, **2022-2**, **Number of Citations: **43, ([pdf](./Papers/Deep_learning_for_temporal_data_representation_in_electronic_health_records_A_systematic_review_of_challenges_and_methodologies.pdf))([link](http://dx.doi.org/10.1016/j.jbi.2021.103980)).
+ - **Large Language Models in Healthcare: A Review**. Zou Shun et.al. **No journal**, **2023-10-27**, **Number of Citations: **0, ([pdf](./Papers/Large_Language_Models_in_Healthcare_A_Review.pdf))([link](http://dx.doi.org/10.1109/iscsic60498.2023.00038)).
 
 
 ## Models
  - **PMC-LLaMA: Towards Building Open-source Language Models for Medicine**. Chaoyi Wu et.al. **arxiv**, **2023**, **Number of Citations: **None, ([pdf](.\Papers\PMC-LLaMA_Towards_Building_Open-source_Language_Models_for_Medicine.pdf))([link](http://arxiv.org/abs/2304.14454v3)).
+ - **ADELIE: Aligning Large Language Models on Information Extraction**. Yunjia Qi et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\ADELIE_Aligning_Large_Language_Models_on_Information_Extraction.pdf))([link](http://arxiv.org/abs/2405.05008v1)).
  - **AlpaCare:Instruction-tuned Large Language Models for Medical Application**. Xinlu Zhang et.al. **arxiv**, **2023**, **Number of Citations: **None, ([pdf](.\Papers\AlpaCareInstruction-tuned_Large_Language_Models_for_Medical_Application.pdf))([link](http://arxiv.org/abs/2310.14558v2)). 
     - Propose creating a diverse, machine-generated medical IFT dataset, MedInstruct-52k, using GPT-4 and ChatGPT with a high-quality expert-curated seed set.
     - LLaMA-series models
@@ -34,11 +42,14 @@ My paper list.
 ## Datasets
  - **Does bert learn as humans perceive? understanding linguistic styles through lexica**. SA Hayati et.al. **EMNLP (1)**, **2021**, **Number of Citations: **24, ([pdf](.\Papers\Does_bert_learn_as_humans_perceive_understanding_linguistic_styles_through_lexica.pdf))([link](https://arxiv.org/abs/2109.02738)).
      - HUMMINGBIRD dataset
+ - **BioRED: a rich biomedical relation extraction dataset**. Luo Ling et.al. **No journal**, **2022-7-19**, **Number of Citations: **30, ([pdf](.\Papers\BioRED_a_rich_biomedical_relation_extraction_dataset.pdf))([link](http://dx.doi.org/10.1093/bib/bbac282)).
+ - **BioInfer: a corpus for information extraction in the biomedical domain**. Pyysalo Sampo et.al. **BMC Bioinformatics**, **2007-2-9**, **Number of Citations: **229, ([pdf](.\Papers\BioInfer_a_corpus_for_information_extraction_in_the_biomedical_domain.pdf))([link](http://dx.doi.org/10.1186/1471-2105-8-50)).
+ - **ODD: A Benchmark Dataset for the Natural Language Processing based
+  Opioid Related Aberrant Behavior Detection**. Sunjae Kwon et.al. **arxiv**, **2023**, **Number of Citations: **None, ([pdf](.\Papers\ODD_A_Benchmark_Dataset_for_the_Natural_Language_Processing_based_Opioid_Related_Aberrant_Behavior_Detection.pdf))([link](http://arxiv.org/abs/2307.02591v4)).
 
 
 ## Evaluation
- - **Gemini Goes to Med School: Exploring the Capabilities of Multimodal
-  Large Language Models on Medical Challenge Problems & Hallucinations**. Ankit Pal et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\Gemini_Goes_to_Med_School_Exploring_the_Capabilities_of_Multimodal_Large_Language_Models_on_Medical_Challenge_Problems_&_Hallucinations.pdf))([link](http://arxiv.org/abs/2402.07023v1)). 
+ - **Gemini Goes to Med School: Exploring the Capabilities of Multimodal Large Language Models on Medical Challenge Problems & Hallucinations**. Ankit Pal et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\Gemini_Goes_to_Med_School_Exploring_the_Capabilities_of_Multimodal_Large_Language_Models_on_Medical_Challenge_Problems_&_Hallucinations.pdf))([link](http://arxiv.org/abs/2402.07023v1)). 
 
 
 ## RAG
@@ -46,9 +57,9 @@ My paper list.
  - **Benchmarking large language models in retrieval-augmented generation**. J Chen et.al. **AAAI**, **2024**, **Number of Citations: **42, ([pdf](.\Papers\Benchmarking_large_language_models_in_retrieval-augmented_generation.pdf))([link](https://ojs.aaai.org/index.php/AAAI/article/view/29728)).
  - **BMRetriever: Tuning Large Language Models as Better Biomedical Text Retrievers**. Ran Xu et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\BMRetriever_Tuning_Large_Language_Models_as_Better_Biomedical_Text_Retrievers.pdf))([link](http://arxiv.org/abs/2404.18443v1)). 
  - **REALM: Retrieval-Augmented Language Model Pre-Training**. Kelvin Guu et.al. **arxiv**, **2020**, **Number of Citations: **None, ([pdf](.\Papers\REALM_Retrieval-Augmented_Language_Model_Pre-Training.pdf))([link](http://arxiv.org/abs/2002.08909v1)).
- - **STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge
-  Bases**. Shirley Wu et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\STaRK_Benchmarking_LLM_Retrieval_on_Textual_and_Relational_Knowledge_Bases.pdf))([link](http://arxiv.org/abs/2404.13207v1)).
+ - **STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases**. Shirley Wu et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\STaRK_Benchmarking_LLM_Retrieval_on_Textual_and_Relational_Knowledge_Bases.pdf))([link](http://arxiv.org/abs/2404.13207v1)).
  - **UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation**. Daixuan Cheng et.al. **arxiv**, **2023**, **Number of Citations: **None, ([pdf](.\Papers\UPRISE_Universal_Prompt_Retrieval_for_Improving_Zero-Shot_Evaluation.pdf))([link](http://arxiv.org/abs/2303.08518v4)).
+ - **BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine**. Mingchen Li et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\BiomedRAG_A_Retrieval_Augmented_Large_Language_Model_for_Biomedicine.pdf))([link](http://arxiv.org/abs/2405.00465v3)).
 
 ## Dietary supplement
  - **Deep learning approaches for extracting adverse events and indications of dietary supplements from clinical text**. Fan Yadan et.al. **No journal**, **2020-11-5**, **Number of Citations: **11, ([pdf](.\Papers\Deep_learning_approaches_for_extracting_adverse_events_and_indications_of_dietary_supplements_from_clinical_text.pdf))([link](http://dx.doi.org/10.1093/jamia/ocaa218)).
@@ -58,6 +69,14 @@ My paper list.
  - **Identifying Cardiomegaly in ChestX-ray8 Using Transfer Learning.**. Sicheng Zhou et.al. **MedInfo**, **2019**, **Number of Citations: **36, ([pdf](./Papers//Identifying_Cardiomegaly_in_ChestX-ray8_Using_Transfer_Learning.pdf.pdf))([link](https://doi.org/10.3233/SHTI190268)).
  - **Toward safer health care: a review strategy of FDA medical device adverse event database to identify and categorize health information technology related events**. Kang Hong et.al. **No journal**, **2018-10-12**, **Number of Citations: **6, ([pdf](.\Papers\Toward_safer_health_care_a_review_strategy_of_FDA_medical_device_adverse_event_database_to_identify_and_categorize_health_information_technology_related_events.pdf))([link](http://dx.doi.org/10.1093/jamiaopen/ooy042)).
  - **Analysis of Twitter to Identify Topics Related to Eating Disorder Symptoms**. Zhou Sicheng et.al. **No journal**, **2019-6**, **Number of Citations: **10, ([pdf](.\Papers\Analysis_of_Twitter_to_Identify_Topics_Related_to_Eating_Disorder_Symptoms.pdf))([link](http://dx.doi.org/10.1109/ichi.2019.8904863)).
+ - **CancerBERT: a cancer domain-specific language model for extracting breast cancer phenotypes from electronic health records**. Zhou Sicheng et.al. **No journal**, **2022-3-25**, **Number of Citations: **36, ([pdf](.\Papers\CancerBERT_a_cancer_domain-specific_language_model_for_extracting_breast_cancer_phenotypes_from_electronic_health_records.pdf))([link](http://dx.doi.org/10.1093/jamia/ocac040)).
+
+## Fast inference
+ - **BERT Loses Patience: Fast and Robust Inference with Early Exit**. Wangchunshu Zhou et.al. **arxiv**, **2020**, **Number of Citations: **None, ([pdf](.\Papers\BERT_Loses_Patience_Fast_and_Robust_Inference_with_Early_Exit.pdf))([link](http://arxiv.org/abs/2006.04152v3)).
+    - Code: [https://github.com/JetRunner/PABEE](https://github.com/JetRunner/PABEE)
+ - **F-PABEE: Flexible-Patience-Based Early Exiting For Single-Label and Multi-Label Text Classification Tasks**. Gao Xiangxiang et.al. **No journal**, **2023-6-4**, **Number of Citations: **2, ([pdf](./Papers/F-PABEE_Flexible-Patience-Based_Early_Exiting_For_Single-Label_and_Multi-Label_Text_Classification_Tasks.pdf))([link](http://dx.doi.org/10.1109/icassp49357.2023.10095864)).
+ - **Adaptive Inference through Early-Exit Networks**. Laskaridis Stefanos et.al. **No journal**, **2021-6-24**, **Number of Citations: **36, ([pdf](.\Papers\Adaptive_Inference_through_Early-Exit_Networks.pdf))([link](http://dx.doi.org/10.1145/3469116.3470012)).
+ - **PCEE-BERT: accelerating BERT inference via patient and confident early exiting**. Z Zhang et.al. **NAACL-HLT (Findings)**, **2022**, **Number of Citations: **23, ([pdf](.\Papers\PCEE-BERT_accelerating_BERT_inference_via_patient_and_confident_early_exiting.pdf))([link](https://aclanthology.org/2022.findings-naacl.25/)).
 
 
 ## Uncategorized
@@ -68,7 +87,6 @@ My paper list.
  - **In-context Learning with Retrieved Demonstrations for Language Models: A Survey**. Man Luo et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\In-context_Learning_with_Retrieved_Demonstrations_for_Language_Models_A_Survey.pdf))([link](http://arxiv.org/abs/2401.11624v5)).
  - **Document-level biomedical relation extraction based on multi-dimensional fusion information and multi-granularity logical reasoning**. L Li et.al. **COLING**, **2022**, **Number of Citations: **7, ([pdf](.\Papers\Document-level_biomedical_relation_extraction_based_on_multi-dimensional_fusion_information_and_multi-granularity_logical_reasoning.pdf))([link](https://aclanthology.org/2022.coling-1.183/)).
  - **Branch-Train-Merge: Embarrassingly Parallel Training of Expert Language Models**. Margaret Li et.al. **arxiv**, **2022**, **Number of Citations: **None, ([pdf](.\Papers\Branch-Train-Merge_Embarrassingly_Parallel_Training_of_Expert_Language_Models.pdf))([link](http://arxiv.org/abs/2208.03306v1)).
- - **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized
-  Toolsets**. Lifan Yuan et.al. **arxiv**, **2023**, **Number of Citations: **None, ([pdf](.\Papers\CRAFT_Customizing_LLMs_by_Creating_and_Retrieving_from_Specialized_Toolsets.pdf))([link](http://arxiv.org/abs/2309.17428v2)).
+ - **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets**. Lifan Yuan et.al. **arxiv**, **2023**, **Number of Citations: **None, ([pdf](.\Papers\CRAFT_Customizing_LLMs_by_Creating_and_Retrieving_from_Specialized_Toolsets.pdf))([link](http://arxiv.org/abs/2309.17428v2)).
  - **TrustLLM: Trustworthiness in Large Language Models**. Lichao Sun et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\TrustLLM_Trustworthiness_in_Large_Language_Models.pdf))([link](http://arxiv.org/abs/2401.05561v4)).
- - **BioRED: a rich biomedical relation extraction dataset**. Luo Ling et.al. **No journal**, **2022-7-19**, **Number of Citations: **30, ([pdf](.\Papers\BioRED_a_rich_biomedical_relation_extraction_dataset.pdf))([link](http://dx.doi.org/10.1093/bib/bbac282)).
+ - **GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction**. Oscar Sainz et.al. **arxiv**, **2023**, **Number of Citations: **None, ([pdf](.\Papers\GoLLIE_Annotation_Guidelines_improve_Zero-Shot_Information-Extraction.pdf))([link](http://arxiv.org/abs/2310.03668v5)).
