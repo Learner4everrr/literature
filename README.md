@@ -1,11 +1,18 @@
 My paper list.
 
+[Hallucination](file:///C:/Users/91338/AppData/Local/Temp/MarkdownPadPreview.html#Hallucination),
+[Classics](file:///C:/Users/91338/AppData/Local/Temp/MarkdownPadPreview.html#Classical),
+[Instruction Tuning](file:///C:/Users/91338/AppData/Local/Temp/MarkdownPadPreview.html#Instruction_Tuning),
+[Multi-task Learning](file:///C:/Users/91338/AppData/Local/Temp/MarkdownPadPreview.html#MTL),
+
+
 ## Some paper list
  - [https://github.com/DengBoCong/nlp-paper?tab=readme-ov-file](https://github.com/DengBoCong/nlp-paper?tab=readme-ov-file)
  - [https://scholar.google.com/citations?user=E0iCaa4AAAAJ&hl=en&oi=sra](https://scholar.google.com/citations?user=E0iCaa4AAAAJ&hl=en&oi=sra)
  - [https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:natural_language_processing](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:natural_language_processing)
 
-## Hallucination
+
+## <a id="Hallucination">Hallucination</a>
  - **Cognitive Mirage: A Review of Hallucinations in Large Language Models**. Hongbin Ye et.al. **arxiv**, **2023**, **Number of Citations: **None, ([pdf](.\Papers\Cognitive_Mirage_A_Review_of_Hallucinations_in_Large_Language_Models.pdf))([link](http://arxiv.org/abs/2309.06794v1)).
    - Taxonomy of Hallucination
      - Question and Answer
@@ -25,7 +32,7 @@ My paper list.
    - Baseline Models: GPT-3.5 Turbo, Falcon(Penedoetal.,2023b), MPT(MosaicML,2023) and Llama-2(Touvronetal.,2023).
    - Evaluation matrices: Accuracy, **PointwiseScore**
 
-## Classical
+## <a id="Classical">Classical</a>
  - **A unified architecture for natural language processing**. Collobert Ronan et.al. **No journal**, **2008**, **Number of Citations: **2448, ([pdf](.\Papers\A_unified_architecture_for_natural_language_processing.pdf))([link](http://dx.doi.org/10.1145/1390156.1390177)).
  - **Imagenet classification with deep convolutional neural networks**. A Krizhevsky et.al. **Commun. ACM**, **2012**, **Number of Citations: **127575, ([pdf](.\Papers\Imagenet_classification_with_deep_convolutional_neural_networks.pdf))([link](https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)).
  - **Deep residual learning for image recognition**. K He et.al. **CoDIT**, **2016**, **Number of Citations: **211374, ([pdf](.\Papers\Deep_residual_learning_for_image_recognition.pdf))([link](http://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)).
@@ -154,19 +161,40 @@ My paper list.
  - **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets**. Lifan Yuan et.al. **arxiv**, **2023**, **Number of Citations: **None, ([pdf](.\Papers\CRAFT_Customizing_LLMs_by_Creating_and_Retrieving_from_Specialized_Toolsets.pdf))([link](http://arxiv.org/abs/2309.17428v2)).
  - **TrustLLM: Trustworthiness in Large Language Models**. Lichao Sun et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\TrustLLM_Trustworthiness_in_Large_Language_Models.pdf))([link](http://arxiv.org/abs/2401.05561v4)).
  - **GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction**. Oscar Sainz et.al. **arxiv**, **2023**, **Number of Citations: **None, ([pdf](.\Papers\GoLLIE_Annotation_Guidelines_improve_Zero-Shot_Information-Extraction.pdf))([link](http://arxiv.org/abs/2310.03668v5)).
+ - **Multi-task learning for natural language processing in the 2020s: Where are we going?**. Worsham Joseph et.al. **Pattern Recognition Letters**, **2020-8**, **Number of Citations: **43, ([pdf](.\Papers\Multi-task_learning_for_natural_language_processing_in_the_2020s_Where_are_we_going.pdf))([link](http://dx.doi.org/10.1016/j.patrec.2020.05.031)).
 
-## Multi task learning
+
+## <a id="Instruction_Tuning">Instruction Tuning</a>
+ - {{2308.10792}}
+
+
+
+## <a id="MTL">Multi-task Learning</a>
 ### Review
+ - **Multi-task learning in natural language processing: An overview**. S Chen et.al. **CoRR**, **2021**, **Number of Citations: **60, ([pdf](./Papers/Multi-task_learning_in_natural_language_processing_An_overview.pdf))([link](https://dl.acm.org/doi/abs/10.1145/3663363)).
+   - MTL is especially meaningful for low-resource tasks and languages whose labeled dataset is sometimes too small to sufficiently train a model
+   - **Parallel architecture**: shares the bulk of the model among multiple tasks while each task has its own task-specific output layer.
+   ![MTL_Parallel_Architectures](./Figures/MTL-Parallel_Architectures.png "Parallel Architectures")
+   - **Hierarchical architecture**: hierarchically combine features from different tasks, take the output of one task as the input of another task, or explicitly model the interaction between tasks.
+   ![MTL_Hierarchical_architectures](./Figures/MTL-hierarchical_architectures.png "Hierarchical_architectures")
+   - **Modular architecture**: decomposes the whole model into shared components and task-specific components that learn task-invariant and task-specific features, respectively
+   - **Generative adversarial architecture**
+ - **Multi-Task Deep Neural Networks for Natural Language Understanding**. Xiaodong Liu et.al. **arxiv**, **2019**, **Number of Citations: **None, ([pdf](.\Papers\Multi-Task_Deep_Neural_Networks_for_Natural_Language_Understanding.pdf))([link](http://arxiv.org/abs/1901.11504v2)).
+ - **Multi-task learning to improve natural language understanding**. Stefan Constantin et.al. **arxiv**, **2018**, **Number of Citations: **None, ([pdf](.\Papers\Multi-task_learning_to_improve_natural_language_understanding.pdf))([link](http://arxiv.org/abs/1812.06876v2)).
+ - **A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods**. Zhihan Zhang et.al. **arxiv**, **2022**, **Number of Citations: **None, ([pdf](.\Papers\A_Survey_of_Multi-task_Learning_in_Natural_Language_Processing_Regarding_Task_Relatedness_and_Training_Methods.pdf))([link](http://arxiv.org/abs/2204.03508v2)).
+ - **An Overview of Multi-Task Learning in Deep Neural Networks**. Sebastian Ruder et.al. **arxiv**, **2017**, **Number of Citations: **None, ([pdf](.\Papers\An_Overview_of_Multi-Task_Learning_in_Deep_Neural_Networks.pdf))([link](http://arxiv.org/abs/1706.05098v1)).
  - **Learning with Whom to Share in Multi-task Feature Learning.**. Zhuoliang Kang et.al. **ICML**, **2011**, **Number of Citations: **None, ([pdf](./Papers/Learning_with_Whom_to_Share_in_Multi-task_Feature_Learning.pdf))([link](https://icml.cc/2011/papers/344_icmlpaper.pdf)).
- - **Efficiently Identifying Task Groupings for Multi-Task Learning.**. Chris Fifty et.al. **NeurIPS**, **2021**, **Number of Citations: **None, ([pdf](./Papers/Efficiently_Identifying_Task_Groupings_for_Multi-Task_Learning.pdf))([link](https://proceedings.neurips.cc/paper/2021/hash/e77910ebb93b511588557806310f78f1-Abstract.html)).
  - **Let the Model Decide its Curriculum for Multitask Learning**. Neeraj Varshney et.al. **arxiv**, **2022**, **Number of Citations: **None, ([pdf](.\Papers\Let_the_Model_Decide_its_Curriculum_for_Multitask_Learning.pdf))([link](http://arxiv.org/abs/2205.09898v2)).
  - **Multi-Task Learning with Deep Neural Networks: A Survey**. Michael Crawshaw et.al. **arxiv**, **2020**, **Number of Citations: **None, ([pdf](.\Papers\Multi-Task_Learning_with_Deep_Neural_Networks_A_Survey.pdf))([link](http://arxiv.org/abs/2009.09796v1)).
    - design of multi-task neural network architectures
    - MTL optimization methods into six distinct groups: loss weighting, regularization, gradient modulation, task scheduling, multi-objective optimization, and knowledge distillation.
    - The goal of TRL is to learn an explicit representation of tasks or relationships between tasks, such as clustering tasks into groups by similarity, and leveraging the learned task relationships to improve learning on the tasks at hand.
- - **Towards Understanding Multi-Task Learning (Generalization) of LLMs via Detecting and Exploring Task-Specific Neurons**. Yongqi Leng et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\Towards_Understanding_Multi-Task_Learning_(Generalization)_of_LLMs_via_Detecting_and_Exploring_Task-Specific_Neurons.pdf))([link](http://arxiv.org/abs/2407.06488v1)).
+ - **A brief review on multi-task learning**. KH Thung et.al. **Multim. Tools Appl.**, **2018**, **Number of Citations: **225, ([pdf](./Papers/A_brief_review_on_multi-task_learning.pdf))([link](https://link.springer.com/article/10.1007/s11042-018-6463-x)).
 
 ### Methodology
+ - **An Empirical Study of Multi-Task Learning on BERT for Biomedical Text Mining**. Yifan Peng et.al. **arxiv**, **2020**, **Number of Citations: **None, ([pdf](.\Papers\An_Empirical_Study_of_Multi-Task_Learning_on_BERT_for_Biomedical_Text_Mining.pdf))([link](http://arxiv.org/abs/2005.02799v1)).
+   - Multi-task model: BERT, Shared Layers and Task specific layers
+   - Datasets: Biomedical BLUE benchmark
  - **Identifying beneficial task relations for multi-task learning in deep neural networks**. Joachim Bingel et.al. **arxiv**, **2017**, **Number of Citations: **None, ([pdf](.\Papers\Identifying_beneficial_task_relations_for_multi-task_learning_in_deep_neural_networks.pdf))([link](http://arxiv.org/abs/1702.08303v1)).
    - Model: bi-directional LSTM
    - 10 tasks
@@ -189,29 +217,33 @@ My paper list.
  - **AutoSeM: Automatic Task Selection and Mixing in Multi-Task Learning**. Han Guo et.al. **arxiv**, **2019**, **Number of Citations: **None, ([pdf](.\Papers\AutoSeM_Automatic_Task_Selection_and_Mixing_in_Multi-Task_Learning.pdf))([link](http://arxiv.org/abs/1904.04153v1)).
    - multi-armed bandit controller used for task selection, Gaussian Process controller used for automatic mixing ratio (MR) learning
  - **Comic MTL: optimized multi-task learning for comic book image analysis**. Nguyen Nhu-Van et.al. **IJDAR**, **2019-7-17**, **Number of Citations: **19, ([pdf](.\Papers\Comic_MTL_optimized_multi-task_learning_for_comic_book_image_analysis.pdf))([link](http://dx.doi.org/10.1007/s10032-019-00330-3)).
+ - **Efficiently Identifying Task Groupings for Multi-Task Learning.**. Chris Fifty et.al. **NeurIPS**, **2021**, **Number of Citations: **None, ([pdf](./Papers/Efficiently_Identifying_Task_Groupings_for_Multi-Task_Learning.pdf))([link](https://proceedings.neurips.cc/paper/2021/hash/e77910ebb93b511588557806310f78f1-Abstract.html)).
+   - We propose to measure inter-task affinity by training all tasks together in a single multi-task network and quantifying the effect to which one task’s gradient update would affect another task’s loss.
+   - it computes task groupings from only a single training run.
+ - **Towards Understanding Multi-Task Learning (Generalization) of LLMs via Detecting and Exploring Task-Specific Neurons**. Yongqi Leng et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\Towards_Understanding_Multi-Task_Learning_(Generalization)_of_LLMs_via_Detecting_and_Exploring_Task-Specific_Neurons.pdf))([link](http://arxiv.org/abs/2407.06488v1)).
+   - the detected neurons are highly correlated with the given task, which we term as task-specific neurons.
+   -  we propose a neuron-level continuous fine-tuning method that only fine-tunes the current task-specific neurons during continuous learning
+ - **A Unified Multi-Task Learning Framework for Joint Extraction of Entities and Relations**. Zhao Tianyang et.al. **AAAI**, **2021-5-18**, **Number of Citations: **6, ([pdf](.\Papers\A_Unified_Multi-Task_Learning_Framework_for_Joint_Extraction_of_Entities_and_Relations.pdf))([link](http://dx.doi.org/10.1609/aaai.v35i16.17707)). 
 
 ### Models
+ - **MT-clinical BERT: scaling clinical information extraction with multitask learning**. Mulyar Andriy et.al. **No journal**, **2021-8-1**, **Number of Citations: **19, ([pdf](.\Papers\MT-clinical_BERT_scaling_clinical_information_extraction_with_multitask_learning.pdf))([link](http://dx.doi.org/10.1093/jamia/ocab126)).
+   - slight but consistent performance degradation in MT Clinical BERT relative to sequential fine-tuning
+   - These results intuitively suggest that learning a general clinical text representation capable of supporting multiple tasks has the downside of losing the ability to exploit dataset or clinical note-specific properties
+ whencomparedto asingle, task-specific model.
  - **DeepStruct: Pretraining of Language Models for Structure Prediction**. Chenguang Wang et.al. **arxiv**, **2022**, **Number of Citations: **None, ([pdf](.\Papers\DeepStruct_Pretraining_of_Language_Models_for_Structure_Prediction.pdf))([link](http://arxiv.org/abs/2205.10475v2)).
  - **InstructUIE: Multi-task Instruction Tuning for Unified Information Extraction**. Xiao Wang et.al. **arxiv**, **2023**, **Number of Citations: **None, ([pdf](.\Papers\InstructUIE_Multi-task_Instruction_Tuning_for_Unified_Information_Extraction.pdf))([link](http://arxiv.org/abs/2304.08085v1)).
  - **Code4Struct: Code Generation for Few-Shot Event Structure Prediction**. Xingyao Wang et.al. **arxiv**, **2022**, **Number of Citations: **None, ([pdf](.\Papers\Code4Struct_Code_Generation_for_Few-Shot_Event_Structure_Prediction.pdf))([link](http://arxiv.org/abs/2210.12810v2)).
  - **GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction**. Oscar Sainz et.al. **arxiv**, **2023**, **Number of Citations: **None, ([pdf](.\Papers\GoLLIE_Annotation_Guidelines_improve_Zero-Shot_Information-Extraction.pdf))([link](http://arxiv.org/abs/2310.03668v5)).
- - - **ADELIE: Aligning Large Language Models on Information Extraction**. Yunjia Qi et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\ADELIE_Aligning_Large_Language_Models_on_Information_Extraction.pdf))([link](http://arxiv.org/abs/2405.05008v1)).
+ - **ADELIE: Aligning Large Language Models on Information Extraction**. Yunjia Qi et.al. **arxiv**, **2024**, **Number of Citations: **None, ([pdf](.\Papers\ADELIE_Aligning_Large_Language_Models_on_Information_Extraction.pdf))([link](http://arxiv.org/abs/2405.05008v1)).
  - {{}}
  
- - **Multi-task learning in natural language processing: An overview**. S Chen et.al. **CoRR**, **2021**, **Number of Citations: **60, ([pdf](./Papers/Multi-task_learning_in_natural_language_processing_An_overview.pdf))([link](https://dl.acm.org/doi/abs/10.1145/3663363)).
- - **Multi-task learning for natural language processing in the 2020s: Where are we going?**. Worsham Joseph et.al. **Pattern Recognition Letters**, **2020-8**, **Number of Citations: **43, ([pdf](.\Papers\Multi-task_learning_for_natural_language_processing_in_the_2020s_Where_are_we_going.pdf))([link](http://dx.doi.org/10.1016/j.patrec.2020.05.031)).
- - **Multi-Task Deep Neural Networks for Natural Language Understanding**. Xiaodong Liu et.al. **arxiv**, **2019**, **Number of Citations: **None, ([pdf](.\Papers\Multi-Task_Deep_Neural_Networks_for_Natural_Language_Understanding.pdf))([link](http://arxiv.org/abs/1901.11504v2)).
- - **Multi-task learning to improve natural language understanding**. Stefan Constantin et.al. **arxiv**, **2018**, **Number of Citations: **None, ([pdf](.\Papers\Multi-task_learning_to_improve_natural_language_understanding.pdf))([link](http://arxiv.org/abs/1812.06876v2)).
- - **A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods**. Zhihan Zhang et.al. **arxiv**, **2022**, **Number of Citations: **None, ([pdf](.\Papers\A_Survey_of_Multi-task_Learning_in_Natural_Language_Processing_Regarding_Task_Relatedness_and_Training_Methods.pdf))([link](http://arxiv.org/abs/2204.03508v2)).
- - **An Overview of Multi-Task Learning in Deep Neural Networks**. Sebastian Ruder et.al. **arxiv**, **2017**, **Number of Citations: **None, ([pdf](.\Papers\An_Overview_of_Multi-Task_Learning_in_Deep_Neural_Networks.pdf))([link](http://arxiv.org/abs/1706.05098v1)).
+
  - **Unified Pre-training for Program Understanding and Generation**. Wasi Uddin Ahmad et.al. **arxiv**, **2021**, **Number of Citations: **None, ([pdf](.\Papers\Unified_Pre-training_for_Program_Understanding_and_Generation.pdf))([link](http://arxiv.org/abs/2103.06333v2)).
- - **MT-clinical BERT: scaling clinical information extraction with multitask learning**. Mulyar Andriy et.al. **No journal**, **2021-8-1**, **Number of Citations: **19, ([pdf](.\Papers\MT-clinical_BERT_scaling_clinical_information_extraction_with_multitask_learning.pdf))([link](http://dx.doi.org/10.1093/jamia/ocab126)).
+
  - **Multi-task learning for few-shot biomedical relation extraction**. V Moscato et.al. **Artif. Intell. Rev.**, **2023**, **Number of Citations: **10, ([pdf](./Papers/Multi-task_learning_for_few-shot_biomedical_relation_extraction.pdf))([link](https://link.springer.com/article/10.1007/s10462-023-10484-6)).
- - **A Unified Multi-Task Learning Framework for Joint Extraction of Entities and Relations**. Zhao Tianyang et.al. **AAAI**, **2021-5-18**, **Number of Citations: **6, ([pdf](.\Papers\A_Unified_Multi-Task_Learning_Framework_for_Joint_Extraction_of_Entities_and_Relations.pdf))([link](http://dx.doi.org/10.1609/aaai.v35i16.17707)).
  - **Enhancing Relation Extraction via Adversarial Multi-task Learning**. H Qin et.al. **LREC**, **2022**, **Number of Citations: **3, ([pdf](.\Papers\Enhancing_Relation_Extraction_via_Adversarial_Multi-task_Learning.pdf))([link](https://aclanthology.org/2022.lrec-1.666/)).
  - **Enhancing relation extraction using multi-task learning with SDP evidence**. H Wang et.al. **Inf. Sci.**, **2024**, **Number of Citations: **0, ([pdf](./Papers/Enhancing_relation_extraction_using_multi-task_learning_with_SDP_evidence.pdf))([link](https://www.sciencedirect.com/science/article/pii/S0020025524005231)).
  - **Multi-task and multi-view training for end-to-end relation extraction**. Zhang Junchi et.al. **Neurocomputing**, **2019-10**, **Number of Citations: **12, ([pdf](.\Papers\Multi-task_and_multi-view_training_for_end-to-end_relation_extraction.pdf))([link](http://dx.doi.org/10.1016/j.neucom.2019.06.087)).
  - **A neural network multi-task learning approach to biomedical named entity recognition**. G Crichton et.al. **BMC Bioinform.**, **2017**, **Number of Citations: **257, ([pdf](./Papers/A_neural_network_multi-task_learning_approach_to_biomedical_named_entity_recognition.pdf))([link](https://link.springer.com/article/10.1186/s12859-017-1776-8)).
- - **A brief review on multi-task learning**. KH Thung et.al. **Multim. Tools Appl.**, **2018**, **Number of Citations: **225, ([pdf](./Papers/A_brief_review_on_multi-task_learning.pdf))([link](https://link.springer.com/article/10.1007/s11042-018-6463-x)).
- - **An Empirical Study of Multi-Task Learning on BERT for Biomedical Text Mining**. Yifan Peng et.al. **arxiv**, **2020**, **Number of Citations: **None, ([pdf](.\Papers\An_Empirical_Study_of_Multi-Task_Learning_on_BERT_for_Biomedical_Text_Mining.pdf))([link](http://arxiv.org/abs/2005.02799v1)).
+
  - **Neural multi-task learning in drug design**. ([pdf](./Papers//your_pdf_name.pdf)).
